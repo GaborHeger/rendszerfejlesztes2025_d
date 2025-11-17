@@ -1,3 +1,3 @@
 # rendszerfejlesztes2025_d
 Rendszerfejlesztés D - csoport
-Kasza Krisztián - Uhrin Kristóf
+Kasza Krisztián - Uhrin Kristóf - Dékány Dóra Ramóma
